@@ -1,13 +1,17 @@
-👋 Salut, je suis @ibrahima-eemi
+👋 Salut, moi c'est @ibrahima-eemi
 
-👀 Je suis passionné par la cybersécurité, en particulier les tests d'intrusion et le Red Teaming.
+🔎 Passionné par la cybersécurité – spécialisé dans les tests d'intrusion et le Red Teaming, j'explore avec enthousiasme le monde de la sécurité offensive. J'aime découvrir des vulnérabilités et renforcer la protection des systèmes avec des méthodes avancées.
 
-J'apprécie le défi de découvrir les vulnérabilités et de renforcer la sécurité des systèmes grâce à des méthodes avancées, comme l'exploitation des failles, la reconnaissance OSINT et les attaques de type social engineering.
+🛠️ Ce que je fais :
 
-🌱 Je suis actuellement en train d'approfondir mes compétences en techniques de pentesting avancées avec des outils comme Kali Linux et le framework Metasploit, et je me forme sur les approches modernes de Red Teaming pour évaluer la résilience des défenses.
+Utilisation d'outils de pointe comme Kali Linux et le framework Metasploit pour des techniques de pentesting avancées.
+OSINT, exploitation de failles et ingénierie sociale pour identifier et exploiter des faiblesses dans les systèmes.
+Approfondissement des méthodes de Red Teaming modernes pour tester la résilience des défenses.
+🤝 Ce que je recherche :
+Je suis toujours partant pour des projets de sécurité offensive et des simulations de menaces persistantes avancées (APT), en collaboration avec des équipes Blue Team, pour renforcer les systèmes en conditions réelles.
 
-💞️ Je cherche à collaborer sur des projets de sécurité offensive et des simulations d'APT (Advanced Persistent Threat), avec des équipes Blue Team pour renforcer les systèmes de défense en temps réel.
+📫 Contactez-moi :
+Un message direct sur GitHub, c'est parfait pour entrer en contact !
 
-📫 Pour me contacter, vous pouvez m’envoyer un message direct sur GitHub
-
-⚡ Fun fact : Je participe régulièrement à des CTF (Capture The Flag) pour rester à jour sur les nouvelles techniques de piratage et pour le plaisir de la compétition.
+⚡ Fun fact :
+J'adore les compétitions de type CTF (Capture The Flag) ! C'est une manière amusante de me tenir informé des nouvelles techniques de piratage et d'améliorer mes compétences.
