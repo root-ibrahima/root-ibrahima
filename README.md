@@ -5,8 +5,7 @@
 
 - 👨‍💻 My expertise spans a wide range of technologies, from web development to cybersecurity, cloud infrastructures, and IoT projects using hardware like Arduino and Raspberry Pi.
 
-- 💬 Feel free to ask me about **Python, Docker, Kubernetes, CI/CD, Node.js, Kali Linux, Metasploit, Symfony, .NET, Arduino, Grove, Raspberry Pi, and more.**
-
+- 💬 Feel free to ask me about **Python, Docker, Kubernetes, CI/CD, Node.js, Kali Linux, Metasploit, Symfony, .NET, Arduino, Raspberry Pi, and more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +28,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
- </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahima-eemi&show_icons=true&theme=dark&locale=en&layout=compact" alt="top-langs" /></p>
