@@ -1,28 +1,40 @@
-👋 Salut, moi c'est @ibrahima-eemi
+<h1 align="center">Hi 👋, I'm Ibrahima Diallo</h1>
+<h3 align="center">A passionate developer, security enthusiast, and hardware tinkerer</h3>
 
-🔎 Passionné par la cybersécurité et le développement – spécialisé dans les tests d'intrusion et le Red Teaming, j'explore avec enthousiasme le monde de la sécurité offensive. J'aime découvrir des vulnérabilités et renforcer la protection des systèmes avec des méthodes avancées.
+- 🔭 I am passionate about **cybersecurity, automation, hardware prototyping, and building robust, innovative solutions.**
 
-🛠️ Ce que je fais :
+- 👨‍💻 My expertise spans a wide range of technologies, from web development to cybersecurity, cloud infrastructures, and IoT projects using hardware like Arduino and Raspberry Pi.
 
-- Utilisation d'outils de pointe comme Kali Linux et le framework Metasploit pour des techniques de pentesting avancées.
-- OSINT, exploitation de failles et ingénierie sociale pour identifier et exploiter des faiblesses dans les systèmes.
-- Approfondissement des méthodes de Red Teaming modernes pour tester la résilience des défenses.
-- Exploration des nouvelles technologies, notamment la conteneurisation avec Docker et Kubernetes.
-- Développement de projets from scratch et travail sur des projets innovants.
-- Intérêt marqué pour l'intelligence artificielle et les crypto-monnaies.
-- Création de mes propres outils pour répondre à des besoins spécifiques en cybersécurité.
-- Développement de solutions logicielles pour améliorer la sécurité et l'efficacité des systèmes.
-- Assurance qualité (QA) et intégration/déploiement continu (CI/CD) pour garantir des livraisons de haute qualité.
-- Utilisation de technologies comme Next.js, TypeScript, Python, Java, Kotlin, .NET/C#, C++, etc.
+- 💬 Feel free to ask me about **Python, Docker, Kubernetes, CI/CD, Node.js, Kali Linux, Metasploit, Symfony, .NET, Arduino, Grove, Raspberry Pi, and more.**
 
-🤝 Ce que je recherche :
+- 📫 How to reach me: **ibrahima.diallo@eemi.com**
 
-Je suis toujours partant pour des projets de sécurité offensive et des simulations de menaces persistantes avancées (APT), en collaboration avec des équipes Blue Team, pour renforcer les systèmes en conditions réelles.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ibrahima-diallo69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 
-📫 Contactez-moi :
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
+  <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="40" height="40"/> </a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
+ </a>
+</p>
 
-Un message direct sur GitHub, c'est parfait pour entrer en contact !
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahima-diallo&show_icons=true&theme=dark&locale=en&layout=compact" alt="top-langs" /></p>
 
-⚡ Fun fact :
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahima-diallo&show_icons=true&theme=dark&locale=en" alt="github-stats" /></p>
 
-J'adore les compétitions de type CTF (Capture The Flag) ! C'est une manière amusante de me tenir informé des nouvelles techniques de piratage et d'améliorer mes compétences.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahima-diallo&theme=dark" alt="github-streak" /></p>
