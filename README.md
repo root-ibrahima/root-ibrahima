@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibrahima Diallo</h1>
+<h1 align="center">Hi 👋, I'm Ibrahima</h1>
 <h3 align="center">A passionate developer, security enthusiast, and hardware tinkerer</h3>
 
 - 🔭 I am passionate about **cybersecurity, automation, hardware prototyping, and building robust, innovative solutions.**
@@ -7,7 +7,6 @@
 
 - 💬 Feel free to ask me about **Python, Docker, Kubernetes, CI/CD, Node.js, Kali Linux, Metasploit, Symfony, .NET, Arduino, Grove, Raspberry Pi, and more.**
 
-- 📫 How to reach me: **ibrahima.diallo@eemi.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
