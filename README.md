@@ -3,14 +3,19 @@
 
 - 🔭 I am passionate about **cybersecurity, automation, hardware prototyping, and building robust, innovative solutions.**
 
-- 👨‍💻 My expertise spans a wide range of technologies, from web development to cybersecurity, cloud infrastructures, and IoT projects using hardware like Arduino and Raspberry Pi.
+- 👨‍💻 My expertise spans a wide range of technologies, from **web development** to **cybersecurity**, **cloud infrastructures**, and **IoT projects** using hardware like **Arduino** and **Raspberry Pi**.
 
-- 💬 Feel free to ask me about **Python, Docker, Kubernetes, CI/CD, Node.js, Kali Linux, Metasploit, Symfony, .NET, Arduino, Raspberry Pi, and more.**
+- ⚡ I have hands-on experience with **cloud platforms** like **AWS**, **Google Cloud**, and **Azure**, as well as **containerization** technologies such as **Docker** and **Kubernetes**.
+
+- 💡 I enjoy building **secure CI/CD pipelines**, working on **threat analysis** using tools like **Kali Linux**, **Metasploit**, and **Wireshark**, and designing secure systems for **web apps** and **networks**.
+
+- 💬 Feel free to ask me about **Python, Node.js, TypeScript, React, Docker, Kubernetes, Symfony, .NET, Flask, FastAPI, Django, Arduino, Raspberry Pi, Elasticsearch, CI/CD, Bash scripting, Linux server management, and more.**
+
+- 🌱 I’m constantly exploring new technologies such as **GraphQL**, **Go**, **Rust**, and **Dart** to stay ahead of the curve.
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ibrahima-diallo69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahima-diallo69" height="30" width="40" /></a>
-<a href="https://discord.gg/barrybrams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="barrybrams" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
