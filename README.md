@@ -30,6 +30,7 @@
   <li>💻 Wireshark - Packet analysis for network debugging</li>
   <li>🔐 Metasploit - Exploitation framework</li>
   <li>🌐 Burp Suite - Web application security testing</li>
+  
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahima-eemi&show_icons=true&theme=dark&locale=en&layout=compact" alt="top-langs" /></p>
