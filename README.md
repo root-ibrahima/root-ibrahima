@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahima</h1>
 <h3 align="center">A passionate developer, security enthusiast, and hardware tinkerer</h3>
 
-- 🔭 I am passionate about **cybersecurity, automation, hardware prototyping, and building robust, innovative solutions.**
+- 🔭 I am passionate about **Cybersecurity, OSINT, Automation, Hardware prototyping, and building robust, innovative solutions.**
 
-- 👨‍💻 My expertise spans a wide range of technologies, from **web development** to **cybersecurity**, **cloud infrastructures**, and **IoT projects** using hardware like **Arduino** and **Raspberry Pi**.
+- 👨‍💻 My expertise spans a wide range of technologies, from **Web development** to **Cybersecurity**, **Cloud Infrastructures**, and **IoT projects** using hardware like **Arduino** and **Raspberry Pi**.
 
 - ⚡ I have hands-on experience with **cloud platforms** like **AWS**, **Google Cloud**, and **Azure**, as well as **containerization** technologies such as **Docker** and **Kubernetes**.
 
