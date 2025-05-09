@@ -35,21 +35,21 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>☁️ Cloud, CI/CD & Sécu</summary>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,bash,linux,git,githubactions,nginx" />
   </p>
 </details>
 
-<details>
+<details open>
   <summary>📡 OSINT, Pentest & Cyber Sécurité Offensive</summary>
   <p align="center">
     <img src="https://www.kali.org/images/favicon.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>
 </details>
 
 
-<details>
+<details open>
   <summary>💾 Bases de Données</summary>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,mariadb,oracle" />
@@ -89,8 +89,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahima-eemi&layout=compact&theme=radical" />
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8AC8&height=120&section=footer" width="100%"/>
 </div>
@@ -98,6 +96,5 @@
 <p align="center">
   <samp>
     <strong>© 2025 Ibrahima Diallo – Dev & CyberInvestigation</strong><br>
-    <i>Dispo pour collaborations, projets cyberinvestigation, ou automatisation 💡</i>
   </samp>
 </p>
