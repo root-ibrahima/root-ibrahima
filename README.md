@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8AC8&height=200&section=header&text=Ibrahima%20Diallo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full%20Stack%20|%20Red%20Teamer%20|%20Maker&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8AC8&height=200&section=header&text=Ibrahima%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full%20Stack%20|%20Red%20Teamer%20|%20Maker&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -95,6 +95,6 @@
 
 <p align="center">
   <samp>
-    <strong>© 2025 Ibrahima Diallo – Dev & CyberInvestigation</strong><br>
+    <strong>© 2025 Ibrahima – Dev & CyberInvestigation</strong><br>
   </samp>
 </p>
