@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&height=45&lines=Développeur+Full+Stack;Expert+CyberSécurité+et+OSINT;Maîtrise+CI%2FCD,+Docker,+Kubernetes,+Linux;Créateur+de+solutions+sécurisées+et+scalables;Passionné+d'Automatisation+et+Hardware+Hacking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&height=45&lines=Développeur+Full+Stack;Expert+CyberSécurité+et+OSINT;Maîtrise+CI%2FCD,+DevSecOps,+Kubernetes,+Linux;Créateur+de+solutions+sécurisées+et+scalables;Passionné+d'Automatisation,+Hardware+Hacking+et+SecOps" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8AC8&height=200&section=header&text=Ibrahima%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full%20Stack%20|%20Red%20Teamer%20|%20Maker&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8AC8&height=200&section=header&text=Ibrahima%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Full%20Stack%20|%20Red%20Teamer%20|%20Cloud%20Security%20Engineer&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=ibrahima-eemi&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-> _Développeur passionné par la sécurité, l’automatisation et l’IoT. J’aime créer des systèmes robustes, scalables et sécurisés._
+> _Développeur passionné par la sécurité, l’automatisation, les infrastructures cloud et l’IoT. J’aime créer des systèmes robustes, scalables, maintenables et sécurisés._
 
 ---
 
@@ -38,7 +38,21 @@
 <details open>
   <summary>☁️ Cloud, CI/CD & Sécu</summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,bash,linux,git,githubactions,nginx" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,bash,linux,git,githubactions,gitlab,nginx" />
+  </p>
+</details>
+
+<details open>
+  <summary>🔐 DevOps, SecOps & Cloud Security</summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=terraform,prometheus,grafana,ansible,helm" />
+    <br/>
+    🔸 Zero Trust Architectures · RBAC/ABAC<br/>
+    🔸 Secrets Management (Vault, SOPS, Doppler)<br/>
+    🔸 IAM & Cloud Security Posture Management (CSPM)<br/>
+    🔸 Sécurité CI/CD (Trivy, SonarQube, Snyk, Checkov)<br/>
+    🔸 Logging & Alerting (Elastic, Loki, Grafana, Prometheus)<br/>
+    🔸 SIEM (Wazuh, ELK, Splunk)<br/>
   </p>
 </details>
 
@@ -46,13 +60,15 @@
   <summary>📡 OSINT, Pentest & Cyber Sécurité Offensive</summary>
   <p align="center">
     <img src="https://www.kali.org/images/favicon.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>
+  </p>
+  <br/>
+  🧠 Recon-ng · SpiderFoot · Maltego · TheHarvester · Sherlock · Photon · Sublist3r · Amass
 </details>
-
 
 <details open>
   <summary>💾 Bases de Données</summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,mariadb,oracle" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
   </p>
 </details>
 
