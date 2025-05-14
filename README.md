@@ -22,28 +22,28 @@
   <img src="https://komarev.com/ghpvc/?username=ibrahima-eemi&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-> _Développeur passionné par la sécurité, l’automatisation, les infrastructures cloud et l’IoT. J’aime créer des systèmes robustes, scalables, maintenables et sécurisés._
-
+> _Développeur passionné par la sécurité, l’automatisation, les infrastructures cloud et l’IoT._
+> _J’aime créer des systèmes robustes, scalables, maintenables et sécurisés._
 ---
 
-## 🧠 Compétences Techniques
+## Compétences Techniques
 
 <details open>
-  <summary>🖥️ Développement</summary>
+  <summary>Développement</summary>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=ts,js,py,go,php,dart,java,c,cpp,cs,nodejs,react,nextjs,flutter,symfony,dotnet,fastapi,django" />
   </p>
 </details>
 
 <details open>
-  <summary>☁️ Cloud, CI/CD & Sécu</summary>
+  <summary>Cloud, CI/CD & Sécu</summary>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,bash,linux,git,githubactions,gitlab,nginx" />
   </p>
 </details>
 
 <details open>
-  <summary>🔐 DevOps, SecOps & Cloud Security</summary>
+  <summary>DevOps, SecOps & Cloud Security</summary>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=terraform,prometheus,grafana,ansible,helm" />
     <br/>
@@ -57,16 +57,16 @@
 </details>
 
 <details open>
-  <summary>📡 OSINT, Pentest & Cyber Sécurité Offensive</summary>
+  <summary>OSINT, Pentest & Cyber Sécurité Offensive</summary>
   <p align="center">
     <img src="https://www.kali.org/images/favicon.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>
   </p>
   <br/>
-  🧠 Recon-ng · SpiderFoot · Maltego · TheHarvester · Sherlock · Photon · Sublist3r · Amass
+  Recon-ng · SpiderFoot · Maltego · TheHarvester · Sherlock · Photon · Sublist3r · Amass
 </details>
 
 <details open>
-  <summary>💾 Bases de Données</summary>
+  <summary>Bases de Données</summary>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
   </p>
@@ -74,27 +74,26 @@
 
 ---
 
-## 🧪 Projets Sécurité & IoT
+## Projets Sécurité & IoT
 
 | Projet | Description |
 |-------|-------------|
-| [🐦 Connected Birdhouse](https://www.hackster.io/green-bird/connected-birdhouse-e3659f) | Maison connectée pour oiseaux avec capteurs, notifications et dashboard. |
-| [📀 RFID Slot-In Player](https://hackaday.io/project/185939-slot-in-record-player-with-arduino-rfid-mp3) | Lecteur de musique contrôlé par RFID, basé sur Arduino. |
-| [🕵️‍♂️ CTF OSINT local en Docker](https://github.com/ibrahima-eemi) | Plateforme CTF auto-hébergée avec challenges OSINT, PostgreSQL, CTFd & Nginx. |
+| [Connected Birdhouse](https://www.hackster.io/green-bird/connected-birdhouse-e3659f) | Maison connectée pour oiseaux avec capteurs, notifications et dashboard. |
+| [RFID Slot-In Player](https://hackaday.io/project/185939-slot-in-record-player-with-arduino-rfid-mp3) | Lecteur de musique contrôlé par RFID, basé sur Arduino. |
+| [CTF OSINT local en Docker](https://github.com/ibrahima-eemi) | Plateforme CTF auto-hébergée avec challenges OSINT, PostgreSQL, CTFd & Nginx. |
 
 ---
 
-## 👨‍💻 Expériences Pro
+## Expériences Pro
 
 | Rôle | Dates | Stack |
 |------|-------|-------|
-| 🔒 Red Team Security Engineer| 2021 - Présent | Python · Bash · Kali Linux · Burp Suite · Metasploit · Wireshark · Nmap · Docker · Kubernetes · GitHub Actions · Recon-ng · OSINT Framework · Linux Hardening |
-| 🤖 Développeur RPA | 2023 - Présent | UiPath (Classic + Modern) · Citrix · API REST · JSON/XML · Regex · Orchestrator · Excel/Word Automation · OCR (Tesseract, Google Vision) · Logging & Monitoring |
-| 🌐 Développeur Full Stack | 2021 - Présent | TypeScript · React · Next.js · Node.js · Symfony · .NET Core · Python (FastAPI, Flask, Django) · PostgreSQL · MySQL · MongoDB · Redis · Docker · TailwindCSS · CI/CD (GitHub Actions, GitLab CI) · API REST/GraphQL · WebSockets · JWT · OAuth2 |
-
+| Développeur RPA | 2023 - Présent | UiPath (Classic + Modern) · Citrix · API REST · JSON/XML · Regex · Orchestrator · Excel/Word Automation · OCR (Tesseract, Google Vision) · Logging & Monitoring |
+| Développeur Full Stack | 2021 - Présent | TypeScript · React · Next.js · Node.js · Symfony · .NET Core · Python (FastAPI, Flask, Django) · PostgreSQL · MySQL · MongoDB · Redis · Docker · TailwindCSS · CI/CD (GitHub Actions, GitLab CI) · API REST/GraphQL · WebSockets · JWT · OAuth2 |
+| Red Team Security Engineer| 2021 - Présent | Python · Bash · Kali Linux · Burp Suite · Metasploit · Wireshark · Nmap · Docker · Kubernetes · GitHub Actions · Recon-ng · OSINT Framework · Linux Hardening |
 ---
 
-## 🧮 Stats GitHub
+## Stats GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ibrahima-eemi&theme=radical&row=1&column=6" />
