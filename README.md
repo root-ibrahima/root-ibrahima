@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&height=45&lines=Développeur+Full+Stack;Expert+CyberSécurité+et+OSINT;Maîtrise+CI%2FCD,+DevSecOps,+Kubernetes,+Linux;Créateur+de+solutions+sécurisées+et+scalables;Passionné+d'Automatisation,+Hardware+Hacking+et+SecOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&height=45&lines=Développeur+Full+Stack;Expert+CyberSécurité+et+OSINT;Maîtrise+CI%2FCD,+DevSecOps,+Kubernetes,+Linux;Créateur+de+solutions+sécurisées+et+scalables;Automatisation,+Hardware+Hacking+OSINT+et+SecOps" />
 </p>
 
 <div align="center">
@@ -111,6 +111,6 @@
 
 <p align="center">
   <samp>
-    <strong>© 2025 Ibrahima – Dev & CyberInvestigation</strong><br>
+    <strong>© 2025 Ibrahima – Cyber & Dev</strong><br>
   </samp>
 </p>
