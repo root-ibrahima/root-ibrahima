@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&height=45&lines=Développeur+Full+Stack;Expert+CyberSécurité+et+OSINT;Maîtrise+CI%2FCD,+DevSecOps,+Kubernetes,+Linux;Créateur+de+solutions+sécurisées+et+scalables;Automatisation,+Hardware+Hacking+OSINT+et+SecOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&height=45&lines=Développeur+Full+Stack;Expert+CyberSécurité+et+OSINT;Architecte+Logiciel;Maîtrise+CI%2FCD,+Devops,+SecOps,+Kubernetes,+Linux;Créateur+de+solutions+sécurisées+et+scalables;Automatisation,+Hardware+Hacking" />
 </p>
 
 <div align="center">
@@ -31,38 +31,22 @@
 <details open>
   <summary>Développement</summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,go,php,dart,java,c,cpp,cs,nodejs,react,nextjs,flutter,symfony,dotnet,fastapi,django" />
+    <img src="https://skillicons.dev/icons?i=ts,js,angular,py,go,rust,php,dart,java,kotlin,swift,c,cpp,cs,nodejs,arduino,react,svelte,flutter,unity,symfony,dotnet,fastapi,django,flask,nuxtjs,nestjs,nextjs,vuejs,jest,pytest" />
   </p>
 </details>
 
 <details open>
   <summary>Cloud, CI/CD & Sécu</summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,bash,linux,git,githubactions,gitlab,nginx" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,bash,linux,git,gitlab,nginx" />
   </p>
 </details>
 
 <details open>
-  <summary>DevOps, SecOps & Cloud Security</summary>
+  <summary>DevOps, SecOps, Cloud, Security, Monitoring</summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=terraform,prometheus,grafana,ansible,helm" />
-    <br/>
-    🔸 Zero Trust Architectures · RBAC/ABAC<br/>
-    🔸 Secrets Management (Vault, SOPS, Doppler)<br/>
-    🔸 IAM & Cloud Security Posture Management (CSPM)<br/>
-    🔸 Sécurité CI/CD (Trivy, SonarQube, Snyk, Checkov)<br/>
-    🔸 Logging & Alerting (Elastic, Loki, Grafana, Prometheus)<br/>
-    🔸 SIEM (Wazuh, ELK, Splunk)<br/>
+    <img src="https://skillicons.dev/icons?i=terraform,prometheus,kali,grafana,ansible,sentry" />
   </p>
-</details>
-
-<details open>
-  <summary>OSINT, Pentest & Cyber Sécurité Offensive</summary>
-  <p align="center">
-    <img src="https://www.kali.org/images/favicon.svg" title="Kali Linux" alt="Kali Linux" width="40" height="40"/>
-  </p>
-  <br/>
-  Recon-ng · SpiderFoot · Maltego · TheHarvester · Sherlock · Photon · Sublist3r · Amass
 </details>
 
 <details open>
@@ -96,12 +80,12 @@
 ## Stats GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahima-eemi&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ibrahima-eemi&theme=darkhub&row=2&column=4&margin-w=10&margin-h=8" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahima-eemi&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahima-eemi&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahima-eemi&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahima-eemi&layout=compact&theme=dark" />
 </div>
 
 <div align="center">
@@ -110,6 +94,6 @@
 
 <p align="center">
   <samp>
-    <strong>© 2025 Ibrahima – Cyber & Dev</strong><br>
+    <strong>© 2025 Ibrahima – Dev, Cyber, QA, Devops</strong><br>
   </samp>
 </p>
