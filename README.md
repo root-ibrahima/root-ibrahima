@@ -13,17 +13,16 @@
   <a href="mailto:contact.ibrahima.dblp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ibrahima-eemi">
+  <a href="https://github.com/root-ibrahima">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahima-eemi&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=root-ibrahima&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-> _Développeur passionné par la sécurité, l’automatisation, les infrastructures cloud et l’IoT._
-> _J’aime créer des systèmes robustes, scalables, maintenables et sécurisés._
+> _Entre code, cloud et cybersécurité, je crée des solutions automatisées et résilientes qui allient performance et innovation._
 ---
 
 ## Compétences Techniques
@@ -64,7 +63,7 @@
 |-------|-------------|
 | [Connected Birdhouse](https://www.hackster.io/green-bird/connected-birdhouse-e3659f) | Maison connectée pour oiseaux avec capteurs, notifications et dashboard. |
 | [RFID Slot-In Player](https://hackaday.io/project/185939-slot-in-record-player-with-arduino-rfid-mp3) | Lecteur de musique contrôlé par RFID, basé sur Arduino. |
-| [CTF OSINT local en Docker](https://github.com/ibrahima-eemi) | Plateforme CTF auto-hébergée avec challenges OSINT, PostgreSQL, CTFd & Nginx. |
+| [CTF OSINT local en Docker](https://github.com/root-ibrahima) | Plateforme CTF auto-hébergée avec challenges OSINT, PostgreSQL, CTFd & Nginx. |
 
 ---
 
@@ -80,12 +79,8 @@
 ## Stats GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahima-eemi&theme=darkhub&row=2&column=4&margin-w=10&margin-h=8" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahima-eemi&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahima-eemi&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=root-ibrahima&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-ibrahima&layout=compact&theme=dark" />
 </div>
 
 <div align="center">
